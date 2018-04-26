@@ -1,0 +1,50 @@
+item {
+  id: 1
+  name: oval
+  ex: Squash, Tomato, Orange, Onion, Plum, Bell_Pepper, Lemon, Potato, Lime, Apple, Mango, Baseball, Kiwi, Light_Bulb
+}
+item {
+  id: 2
+  name: with_hole
+  ex: Stapler, Guitar_Capo, Staple_Remover, Bag_Clip, Tongs, Cork_Screw, Scissors, Tape, Sun_Glasses, Padlock, Caribiner, Can_Opener, Bottle_Opener
+}
+item {
+  id: 3
+  name: like_bowl
+  ex: Mug, Flower_Pot, Plastic_Cup
+}
+item {
+  id: 4
+  name: with_handle
+  ex: Spatula, Screwdriver, Razor, Potato_Masher, Toothbrush, Hair_Brush, Flashlight, Peeler, Brush, Squeegee, Large_Spoon, Wire_Whisk, Rolling_Pin, Lollipop
+}
+item {
+  id: 5
+  name: thin_long
+  ex: Chalk, Candle, Pez_Dispenser, Marker, Toothpaste, Ear_of_Corn, Banana, Nail_Polish, Battery
+}
+item {
+  id: 6
+  name: big_flat
+  ex: Frisbee, Bowl, Photo_Album, Mirror, Candy_Bar
+}
+item {
+  id: 7
+  name: box_like
+  ex: Deodorant, Sponge, Deck_of_Cards, Remote_Controller, Calculator, Phone, Computer_Mouse, Eraser, Banagrams_Game, Glasses_Case, Umbrella, Box, Ipod, Camera, Thread_Spool, Contacts_Case, Retainer_Case, Dental_Floss
+}
+item {
+  id: 8
+  name: bottle
+  ex: Steering_Fluid, Spices_Bottle, Paint_Bottle, Break_Fluid, Lotion, Tennis_Can, Shampoo, Sunblock, Aluminum_Can, Whiteout, Bug_Spray, Motor_Oil
+}
+item {
+  id: 9
+  name: with_Ribbon
+  ex: Headphones, Ribbon, Laptop_Charger, Thread, Hand_Lamp, Goggles
+}
+item {
+  id: 10
+  name: soft_bowl
+  ex: Flip_Flop, Shoe, Baseball_Cap, Straw_Hat
+}
